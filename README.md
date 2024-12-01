@@ -1,2 +1,2 @@
-# jepangtante
-jepangtante
+[jepangtante](https://jepangtante.pages.dev)
+Fork the [repository](https://github.com/lapelive) on GitHub.
